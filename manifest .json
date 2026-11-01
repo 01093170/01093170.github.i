@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "瞬",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "shun",
+  "start_url": "/https://01093170.github.io/01093170.github.i/",
+  "theme_color": "#eef4fa",
+  "id": "11",
+  "description": "free"
+}
