@@ -4,16 +4,22 @@
   "display": "standalone",
   "name": "瞬",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/01093170.github.i/",
   "short_name": "shun",
   "start_url": "/01093170.github.i/",
   "theme_color": "#eef4fa",
   "id": "11",
-  "description": "free" 
+  "description": "free",
   "icons": [
     {
-      "src": "/launchericon-192x192.png",
+      "src": ".launchericon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
+    {
+      "src": ".launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
